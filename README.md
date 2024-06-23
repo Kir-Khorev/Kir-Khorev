@@ -25,5 +25,3 @@
 </p>
 
 ![giphy](https://github.com/Kir-Khorev/Kir-Khorev/assets/63857676/745d26ec-7090-42ab-b9f2-c9d20a37774a)
-
-![Kir Khorev](https://github.com/Kir-Khorev/Kir-Khorev/assets/63857676/a9d4ce74-3d89-490d-b909-ef3c8bb561f7)
